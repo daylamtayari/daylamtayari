@@ -13,7 +13,7 @@ I am very active in the Twitch community and currently maintain and am currently
    
 In my free time, I love working on passion projects, completing cybersecurity labs (the write ups of which are all on my website), exploring and learning new technologies and improving my skillsets.
 
-- College student currently studying a BS in cybersecurity at ASU.
+- College student currently studying for a BS in cybersecurity at ASU.
 - Fully bilingual in French and English. :fr: :gb: 
 - Open source advocate.
 - Currently working on a Twitch bot and some Twitch API and analytic tools.
