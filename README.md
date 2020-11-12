@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome! ![](https://github.com/daylamtayari/daylamtayari/blob/master/peepoHey.gif)
   
 <a href="https://github.com/daylamtayari"><img src="https://komarev.com/ghpvc/?username=daylamtayari&color=orange&style=flat-square&label=Views:" height=28/></a>
 <a href="https://tayari.gg"><img src="https://img.shields.io/badge/WEBSITE-%23FF7139.svg?&style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
