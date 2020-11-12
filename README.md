@@ -23,8 +23,17 @@ In my free time, I love working on passion projects, completing cybersecurity la
 ### Contact Me:
 <img src="https://img.shields.io/badge/tayari 6113-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> <a href="mailto:daylam@tayari.gg"><img src="https://img.shields.io/badge/email-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white"/></a>
 
-## Languages and Tools:
+## Languages, Technologies and Tools:
 
+![JavaScript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white) 
+![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=white) 
+![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white) 
+![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=white)
+
+![Proxmox Badge](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&labelColor=black&logo=proxmox&logoColor=white) 
+![Pi-Hole Badge](https://img.shields.io/badge/PiHole-F60D1A?style=for-the-badge&labelColor=black&logo=pi-hole&logoColor=white) 
+![OpenVPN Badge](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&labelColor=black&logo=OpenVPN&logoColor=white)
+![Apache Badge](https://img.shields.io/badge/apache-D22128?style=for-the-badge&labelColor=black&logo=apache&logoColor=white)
 
 ## Projects:
 - [Shadow Realm Bot [WIP]](https://github.com/ShadowRealmBot): A Twitch moderation bot which allows for streamers to issue permanent time outs.
