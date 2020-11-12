@@ -30,3 +30,4 @@ In my free time, I love working on passion projects, completing cybersecurity la
 
 
 ## Statistics:
+[![Daylam Tayari's GitHub stats](https://github-readme-stats.vercel.app/api?username=daylamtayari&show_icons=true&theme=great-gatsby&count_private=true&hide=issues,contribs)](https://github.com/daylamtayari)
