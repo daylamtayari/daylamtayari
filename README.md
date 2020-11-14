@@ -23,6 +23,10 @@ In my free time, I love working on passion projects, completing cybersecurity la
 ### Contact Me:
 <img src="https://img.shields.io/badge/tayari 6113-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> <a href="mailto:daylam@tayari.gg"><img src="https://img.shields.io/badge/email-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white"/></a>
 
+### Support Me:
+<a href="https://paypal.me/daylamtayari"><img src="https://img.shields.io/badge//daylamtayari-%2300457C.svg?&style=for-the-badge&logo=PayPal&logoColor=white&labelColor=black"></a> 
+<a href="https://www.blockchain.com/btc/address/15KcKrsqW6DQdyZPrgRXXmsKkyyZzHAQVX"><img src="https://img.shields.io/badge/15KcKrsqW6DQdyZPrgRXXmsKkyyZzHAQVX-%23F7931A.svg?&style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=black"></a>
+
 ## Languages, Technologies and Tools:
 
 ![JavaScript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white) 
