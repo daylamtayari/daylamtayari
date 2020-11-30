@@ -40,12 +40,12 @@ In my free time, I love working on passion projects, completing cybersecurity la
 ![Apache Badge](https://img.shields.io/badge/apache-D22128?style=for-the-badge&labelColor=black&logo=apache&logoColor=white)
 
 ## Projects:
-- [**Shadow Realm Bot [WIP]**](https://github.com/ShadowRealmBot): A Twitch moderation bot which allows for streamers to issue permanent time outs.
-- [**Twitch Recover**](https://github.com/daylamtayari/TwitchRecover/TwitchRecover): A tool that allows users to retrieve any Twitch VOD, including if it has been deleted.  
+- **[**Shadow Realm Bot [WIP]**](https://github.com/ShadowRealmBot): A Twitch moderation bot which allows for streamers to issue permanent time outs.**
+- **[**Twitch Recover**](https://github.com/daylamtayari/TwitchRecover/TwitchRecover): A tool that allows users to retrieve any Twitch VOD, including if it has been deleted.**  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TwitchRecover&repo=TwitchRecover&show_icons=true&theme=great-gatsby)](https://github.com/TwitchRecover/TwitchRecover)
-- [**Twitch Tracker [WIP]**](https://github.com/daylamtayari/Chatter-Tracker): A Twitch analytics tool which tracks viewer count and chatter counts.
-- [**Twitch Toolkit [WIP]**](https://github.com/daylamtayari/Twitch-Toolkit): A Twitch API toolkit which is a simple GUI program to allow users to make single API calls to Twitch's API in a simplified manner.
-- [**YouTube Subscription Viewer [WIP]**](https://github.com/daylamtayari/YouTube-Subcription-Viewer): A program which displays all of a user's YouTube subcription and to subscribe and unsubscribe to a user, all without needing to be signed in on the browser.
+- **[**Twitch Tracker [WIP]**](https://github.com/daylamtayari/Chatter-Tracker): A Twitch analytics tool which tracks viewer count and chatter counts.**  
+- **[**Twitch Toolkit [WIP]**](https://github.com/daylamtayari/Twitch-Toolkit): A Twitch API toolkit which is a simple GUI program to allow users to make single API calls to Twitch's API in a simplified manner.**  
+- **[**YouTube Subscription Viewer [WIP]**](https://github.com/daylamtayari/YouTube-Subcription-Viewer): A program which displays all of a user's YouTube subcription and to subscribe and unsubscribe to a user, all without needing to be signed in on the browser.**  
 
 ## Statistics:
 [![Daylam Tayari's GitHub stats](https://github-readme-stats.vercel.app/api?username=daylamtayari&show_icons=true&theme=great-gatsby&count_private=true&hide=issues,contribs)](https://github.com/daylamtayari)
