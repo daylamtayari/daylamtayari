@@ -20,7 +20,7 @@ In my free time, I love working on passion projects, completing cybersecurity la
 - Feel free to contact me about anything.
 
 ### Contact Me:
-<img src="https://img.shields.io/badge/tayari 6113-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> <a href="mailto:daylam@tayari.gg"><img src="https://img.shields.io/badge/email-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/tayari 6113-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> <a href="mailto:daylam@tayari.gg"><img src="https://img.shields.io/badge/email-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white"/></a> <a href="https://twitch.tv/tayarics"><img src="https://img.shields.io/badge/TAYARICS-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white"/></a>
 
 ### Support Me:
 <a href="https://paypal.me/daylamtayari"><img src="https://img.shields.io/badge//daylamtayari-%2300457C.svg?&style=for-the-badge&logo=PayPal&logoColor=white&labelColor=black"></a> 
