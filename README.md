@@ -8,7 +8,7 @@
 <a href="https://github.com/daylamtayari/Resume"><img src="https://img.shields.io/badge/CV-%23000000.svg?&style=for-the-badge&logoColor=white"/></a>
   
 I am Daylam Tayari, a cybsersecurity college student currently based in Phoenix, Arizona, USA.   
-I am very active in the Twitch community and currently maintain and am currently developping numerous projects for it.  
+I am very active in the Twitch community and currently maintain and am currently developing numerous projects for it.  
    
 In my free time, I love working on passion projects, completing cybersecurity labs (the write ups of which are all on my website), exploring and learning new technologies and improving my skillsets.
 
