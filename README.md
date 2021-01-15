@@ -47,6 +47,7 @@ In my free time, I love working on passion projects, completing cybersecurity la
 - **[**Chatter Tracker [WIP]**](https://github.com/daylamtayari/Chatter-Tracker): A Twitch analytics tool which tracks viewer count and chatter counts.**  
 - **[**Twitch Toolkit [WIP]**](https://github.com/daylamtayari/Twitch-Toolkit): A Twitch API toolkit which is a simple GUI program to allow users to make single API calls to Twitch's API in a simplified manner.**  
 - **[**YouTube Subscription Viewer [WIP]**](https://github.com/daylamtayari/YouTube-Subcription-Viewer): A program which displays all of a user's YouTube subcription and to subscribe and unsubscribe to a user, all without needing to be signed in on the browser.**  
+- **CS:GO Server Distro [WIP]**: A custom Linux distribution that contains a pre-configured CS:GO game server, FTP, voice servers (TS, Mumble, Ventrilo, etc.), etc. with custom simple GUI controller applications and web control application. 
 
 ## Statistics:
 [![Daylam Tayari's GitHub stats](https://github-readme-stats.vercel.app/api?username=daylamtayari&show_icons=true&theme=great-gatsby&count_private=true&hide=issues,contribs)](https://github.com/daylamtayari)
