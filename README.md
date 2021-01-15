@@ -15,7 +15,7 @@ In my free time, I love working on passion projects, completing cybersecurity la
 - College student currently studying for a BS in cybersecurity at ASU.
 - Fully bilingual in French and English. :fr: :gb: 
 - Open source advocate.
-- Currently working on a Twitch bot and some Twitch API and analytic tools.
+- Currently primarly working on [Twitch Recover](https://github.com/daylamtayari/TwitchRecover/TwitchRecover) and on the [Shadow Realm Bot](https://github.com/ShadowRealmBot).
 - Check out my [resume](https://github.com/daylamtayari/Resume).
 - Feel free to contact me about anything.
 
@@ -40,8 +40,8 @@ In my free time, I love working on passion projects, completing cybersecurity la
 ![Apache Badge](https://img.shields.io/badge/apache-D22128?style=for-the-badge&labelColor=black&logo=apache&logoColor=white)
 
 ## Projects:
-- **[**Shadow Realm Bot [WIP]**](https://github.com/ShadowRealmBot): A Twitch moderation bot which allows for streamers to issue permanent time outs.**
-- **[**Twitch Recover**](https://github.com/daylamtayari/TwitchRecover/TwitchRecover): A tool that allows users to retrieve any Twitch VOD, including if it has been deleted.**  
+- **[**Twitch Recover**](https://github.com/daylamtayari/TwitchRecover/TwitchRecover): A tool that allows users to **recover**, **retrieve** and **download** any Twitch video (VOD, clip, highlight and stream).**  
+- **[**Shadow Realm Bot [WIP]**](https://github.com/ShadowRealmBot): A Twitch moderation bot which allows for streamers to issue permanent time outs.** 
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TwitchRecover&repo=TwitchRecover&show_icons=true&theme=great-gatsby)](https://github.com/TwitchRecover/TwitchRecover)
 - **[**Chatter Tracker [WIP]**](https://github.com/daylamtayari/Chatter-Tracker): A Twitch analytics tool which tracks viewer count and chatter counts.**  
