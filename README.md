@@ -41,9 +41,9 @@ In my free time, I love working on passion projects, completing cybersecurity la
 
 ## Projects:
 - **[**Twitch Recover**](https://github.com/TwitchRecover/TwitchRecover): A tool that allows users to **recover**, **retrieve** and **download** any Twitch video (VOD, clip, highlight and stream).**  
-- **[**Shadow Realm Bot [WIP]**](https://github.com/ShadowRealmBot): A Twitch moderation bot which allows for streamers to issue permanent time outs.** 
-  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TwitchRecover&repo=TwitchRecover&show_icons=true&theme=great-gatsby)](https://github.com/TwitchRecover/TwitchRecover)
+
+- **[**Shadow Realm Bot [WIP]**](https://github.com/ShadowRealmBot): A Twitch moderation bot which allows for streamers to issue permanent time outs.** 
 - **[**Chatter Tracker [WIP]**](https://github.com/daylamtayari/Chatter-Tracker): A Twitch analytics tool which tracks viewer count and chatter counts.**  
 - **[**Twitch Toolkit [WIP]**](https://github.com/daylamtayari/Twitch-Toolkit): A Twitch API toolkit which is a simple GUI program to allow users to make single API calls to Twitch's API in a simplified manner.**  
 - **[**YouTube Subscription Viewer [WIP]**](https://github.com/daylamtayari/YouTube-Subcription-Viewer): A program which displays all of a user's YouTube subcription and to subscribe and unsubscribe to a user, all without needing to be signed in on the browser.**  
