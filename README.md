@@ -29,15 +29,30 @@ In my free time, I love working on passion projects, completing cybersecurity la
 
 ## Languages, Technologies and Tools:
 
+### Languages:
+
 ![JavaScript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white) 
 ![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=white) 
-![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white) 
+![JSON Badge](https://img.shields.io/badge/JSON-000000?style=for-the-badge&labelColor=black&logo=json&logoColor=white) 
+![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&labelColor=black&logo=markdown&logoColor=white) 
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=white)
 
-![Proxmox Badge](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&labelColor=black&logo=proxmox&logoColor=white) 
+### Technologies
+
+![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white) 
 ![Pi-Hole Badge](https://img.shields.io/badge/PiHole-F60D1A?style=for-the-badge&labelColor=black&logo=pi-hole&logoColor=white) 
+![Proxmox Badge](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&labelColor=black&logo=proxmox&logoColor=white)
 ![OpenVPN Badge](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&labelColor=black&logo=OpenVPN&logoColor=white)
 ![Apache Badge](https://img.shields.io/badge/apache-D22128?style=for-the-badge&labelColor=black&logo=apache&logoColor=white)
+![NGINX Badge](https://img.shields.io/badge/nginx-269539?style=for-the-badge&labelColor=black&logo=nginx&logoColor=white)
+![Jellyfin Badge](https://img.shields.io/badge/jellyfin-00A4DC?style=for-the-badge&labelColor=black&logo=Jellyfin&logoColor=white)
+
+### Tools and IDEs:
+
+![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&labelColor=black&logo=IntelliJ-IDEA&logoColor=white)
+![VS Code Badge](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&labelColor=black&logo=Visual-Studio-Code&logoColor=white)
+![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&labelColor=black&logo=Eclipse-IDE&logoColor=white)
+![OBS Badge](https://img.shields.io/badge/OBS-302E31?style=for-the-badge&labelColor=black&logo=OBS-Studio&logoColor=white)
 
 ## Projects:
 - **[**Twitch Recover**](https://github.com/TwitchRecover/TwitchRecover): A tool that allows users to **recover**, **retrieve** and **download** any Twitch video (VOD, clip, highlight and stream).**  
