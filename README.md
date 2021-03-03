@@ -45,7 +45,8 @@ In my free time, I love working on passion projects, completing cybersecurity la
 ![OpenVPN Badge](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&labelColor=black&logo=OpenVPN&logoColor=white)
 ![Apache Badge](https://img.shields.io/badge/apache-D22128?style=for-the-badge&labelColor=black&logo=apache&logoColor=white)
 ![NGINX Badge](https://img.shields.io/badge/nginx-269539?style=for-the-badge&labelColor=black&logo=nginx&logoColor=white)
-![Jellyfin Badge](https://img.shields.io/badge/jellyfin-00A4DC?style=for-the-badge&labelColor=black&logo=Jellyfin&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=white)
+![Wireguard Badge](https://img.shields.io/badge/wireguard-88171A?style=for-the-badge&labelColor=black&logo=Wireguard&logoColor=white)
 
 ### Tools and IDEs:
 
