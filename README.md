@@ -64,7 +64,7 @@ In my free time, I love working on passion projects, completing cybersecurity la
 - **[**Chatter Tracker [WIP]**](https://github.com/daylamtayari/Chatter-Tracker): A Twitch analytics tool which tracks viewer count and chatter counts.**  
 - **[**Microsoft To Do Export**](https://github.com/daylamtayari/Microsoft-To-Do-Export): A tool to allow you to export all your lists and tasks from Microsoft To Do to then be able to import them elsewhere.**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daylamtayari&repo=Microsoft-To-Do-Export&show_icons=true&theme=great-gatsby)](https://github.com/TwitchRecover/TwitchRecover)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daylamtayari&repo=Microsoft-To-Do-Export&show_icons=true&theme=great-gatsby)](https://github.com/daylamtayari/Microsoft-To-Do-Export)
 
 - **[**Twitch Toolkit [WIP]**](https://github.com/daylamtayari/Twitch-Toolkit): A Twitch API toolkit which is a simple GUI program to allow users to make single API calls to Twitch's API in a simplified manner.**  
 - **[**YouTube Subscription Viewer [WIP]**](https://github.com/daylamtayari/YouTube-Subcription-Viewer): A program which displays all of a user's YouTube subcription and to subscribe and unsubscribe to a user, all without needing to be signed in on the browser.**  
