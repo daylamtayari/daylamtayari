@@ -31,11 +31,12 @@ In my free time, I love working on passion projects, completing cybersecurity la
 
 ### Languages:
 
-![JavaScript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white) 
 ![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=white) 
+![JavaScript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white) 
 ![JSON Badge](https://img.shields.io/badge/JSON-000000?style=for-the-badge&labelColor=black&logo=json&logoColor=white) 
 ![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&labelColor=black&logo=markdown&logoColor=white) 
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=white)
+![Racket Badge](https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&labelColor=black&logo=Racket&logoColor=white)
 
 ### Technologies
 
