@@ -47,6 +47,7 @@ In my free time, I love working on passion projects, completing cybersecurity la
 ![NGINX Badge](https://img.shields.io/badge/nginx-269539?style=for-the-badge&labelColor=black&logo=nginx&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=white)
 ![Wireguard Badge](https://img.shields.io/badge/wireguard-88171A?style=for-the-badge&labelColor=black&logo=Wireguard&logoColor=white)
+![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&labelColor=black&logo=GraphQL&logoColor=white)
 
 ### Tools and IDEs:
 
