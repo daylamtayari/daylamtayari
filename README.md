@@ -37,6 +37,7 @@ In my free time, I love working on passion projects, completing cybersecurity la
 ![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&labelColor=black&logo=markdown&logoColor=white) 
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=white)
 ![Racket Badge](https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&labelColor=black&logo=Racket&logoColor=white)
+![LaTex Badge](https://img.shields.io/badge/LaTex-008080?style=for-the-badge&labelColor=black&logo=LaTex&logoColor=white)
 
 ### Technologies
 
