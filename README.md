@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/daylam-tayari"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/daylamtayari/PGP-Keys"><img src="https://img.shields.io/badge/PGP Keys-%230093DD.svg?&style=for-the-badge&logo=gnu-privacy-guard&logoColor=white"/></a>
 <a href="https://github.com/daylamtayari"><img src="https://img.shields.io/github/followers/daylamtayari?color=222222&label=GH%20FOLLOWERS&logo=github&style=for-the-badge"/></a>
-<a href="https://raw.githubusercontent.com/daylamtayari/Resume/master/resume.pdf"><img src="https://img.shields.io/badge/CV-%23000000.svg?&style=for-the-badge&logoColor=white"/></a>
+<a href="https://github.com/daylamtayari/Resume/blob/master/resume.pdf"><img src="https://img.shields.io/badge/CV-%23000000.svg?&style=for-the-badge&logoColor=white"/></a>
   
 I am Daylam Tayari, a cybsersecurity college student currently based in Phoenix, Arizona, USA.   
 I am very active in the Twitch community and currently maintain and am currently developing numerous projects for it.  
@@ -16,7 +16,7 @@ In my free time, I love working on passion projects, completing cybersecurity la
 - Fully bilingual in French and English. :fr: :gb: 
 - Open source advocate.
 - Currently primarly working on [Twitch Recover](https://github.com/TwitchRecover/TwitchRecover) and on the [Shadow Realm Bot](https://github.com/ShadowRealmBot).
-- Check out my [resume](https://raw.githubusercontent.com/daylamtayari/Resume/master/resume.pdf).
+- Check out my [resume](https://github.com/daylamtayari/Resume/blob/master/resume.pdf).
 - Feel free to contact me about anything.
 
 ### Contact Me:
