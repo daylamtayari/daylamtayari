@@ -38,18 +38,24 @@ Treasurer for the [ASULUG](https://asulug.org), ASU's Linux Users Group.
 
 ### Languages:
 
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white) 
+![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&labelColor=black&logo=go&logoColor=white) 
 ![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=white) 
-![JavaScript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white) 
-![JSON Badge](https://img.shields.io/badge/JSON-000000?style=for-the-badge&labelColor=black&logo=json&logoColor=white) 
-![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&labelColor=black&logo=markdown&logoColor=white) 
-![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=white)
-![Racket Badge](https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&labelColor=black&logo=Racket&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white) 
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=white) 
+![Bash Badge](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&labelColor=black&logo=gnubash&logoColor=white) 
+![SQL Badge](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white) 
 ![LaTex Badge](https://img.shields.io/badge/LaTex-008080?style=for-the-badge&labelColor=black&logo=LaTex&logoColor=white)
+![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=white) 
+![Racket Badge](https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&labelColor=black&logo=Racket&logoColor=white)
 
 ### Technologies
 
+![Burp Suite Badge](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&labelColor=black&logo=&logoColor=white)
+![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&labelColor=black&logo=amazonaws&logoColor=white) 
+![Oracle Cloud Badge](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&labelColor=black&logo=oracle&logoColor=white) 
+![NodeJS Badge](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white) 
-![Pi-Hole Badge](https://img.shields.io/badge/PiHole-F60D1A?style=for-the-badge&labelColor=black&logo=pi-hole&logoColor=white) 
 ![Proxmox Badge](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&labelColor=black&logo=proxmox&logoColor=white)
 ![OpenVPN Badge](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&labelColor=black&logo=OpenVPN&logoColor=white)
 ![Apache Badge](https://img.shields.io/badge/apache-D22128?style=for-the-badge&labelColor=black&logo=apache&logoColor=white)
@@ -57,13 +63,10 @@ Treasurer for the [ASULUG](https://asulug.org), ASU's Linux Users Group.
 ![Docker Badge](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=white)
 ![Wireguard Badge](https://img.shields.io/badge/wireguard-88171A?style=for-the-badge&labelColor=black&logo=Wireguard&logoColor=white)
 ![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&labelColor=black&logo=GraphQL&logoColor=white)
+![TrueNAS Badge](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&labelColor=black&logo=truenas&logoColor=white)
+![Excel Badge](https://img.shields.io/badge/Excel-217346?style=for-the-badge&labelColor=black&logo=microsoftexcel&logoColor=white)
+![Inventor Badge](https://img.shields.io/badge/Autodesk_Inventor-0696D7?style=for-the-badge&labelColor=black&logo=autodesk&logoColor=white)
 
-### Tools and IDEs:
-
-![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&labelColor=black&logo=IntelliJ-IDEA&logoColor=white)
-![VS Code Badge](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&labelColor=black&logo=Visual-Studio-Code&logoColor=white)
-![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&labelColor=black&logo=Eclipse-IDE&logoColor=white)
-![OBS Badge](https://img.shields.io/badge/OBS-302E31?style=for-the-badge&labelColor=black&logo=OBS-Studio&logoColor=white)
 
 ## Projects:
 - **[**Twitch Recover**](https://github.com/TwitchRecover/TwitchRecover): A tool that allows users to **recover**, **retrieve** and **download** any Twitch video (VOD, clip, highlight and stream).**  
