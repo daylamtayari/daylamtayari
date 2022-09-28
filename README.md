@@ -2,30 +2,37 @@
   
 <a href="https://github.com/daylamtayari"><img src="https://komarev.com/ghpvc/?username=daylamtayari&color=orange&style=flat-square&label=Views:" height=28/></a>
 <a href="https://tayari.gg"><img src="https://img.shields.io/badge/WEBSITE-%23FF7139.svg?&style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
-<a href="https://github.com/daylamtayari/Resume/blob/master/resume.pdf"><img src="https://img.shields.io/badge/Resume-%23E01F3D.svg?&style=for-the-badge&logoColor=white"/></a>
+<a href="https://github.com/daylamtayari/Resume/blob/master/resume.pdf"><img src="https://img.shields.io/badge/Resume-%23E6676B.svg?&style=for-the-badge&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/daylamtayari"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/daylamtayari/PGP-Keys"><img src="https://img.shields.io/badge/PGP Keys-%230093DD.svg?&style=for-the-badge&logo=gnu-privacy-guard&logoColor=white"/></a>
 <a href="https://github.com/daylamtayari"><img src="https://img.shields.io/github/followers/daylamtayari?color=222222&label=GH%20FOLLOWERS&logo=github&style=for-the-badge"/></a>
-  
-I am Daylam Tayari, a cybsersecurity college student currently based in Phoenix, Arizona, USA.   
-I am very active in the Twitch community and currently maintain and am currently developing numerous projects for it.  
-   
-In my free time, I love working on passion projects, completing cybersecurity labs (the write ups of which are all on my website), exploring and learning new technologies and improving my skillsets.
 
-- College student currently studying for a BS in cybersecurity at ASU.
-- Fully bilingual in French and English. :fr: :gb: 
-- Open source advocate.
-- Currently primarly working on [Twitch Recover](https://github.com/TwitchRecover/TwitchRecover) and on the [Shadow Realm Bot](https://github.com/ShadowRealmBot).
-- Check out my [resume](https://github.com/daylamtayari/Resume/blob/master/resume.pdf).
-- Feel free to contact me about anything.
+### Infosec professional who also enjoys building out various open source tools and applications in my free time.
+  
+<br/>
+
+I currently work as a cybersecurity consultant [@BishopFox](https://github.com/BishopFox) which I love but I also still enjoy doing development work in my free time.
+
+Primarily work on a variety of personal projects but also regularly contribute to open source projects whenever I encounter any issues or desire a missing feature in something that I am using.
+
+VP of [@DevilSec](https://github.com/devilsec), managing development for numerous projects amongst other things and also competing in collegiate cybersecurity competitions.  
+Treasurer for the [ASULUG](https://asulug.org), ASU's Linux Users Group.
+
+<a href="https://github.com/daylamtayari/Resume/blob/master/resume.pdf"><img src="https://img.shields.io/badge/Check_out_my_Resume-%23E6676B.svg?&style=for-the-badge&logoColor=white"/></a>
+
+### Currently Working On
+- [Twitch Recover](https://github.com/twitchrecover) - Rebuilding the entire program in Go and as Go modules, creating Go modules for the Twitch API.
+- [DevilSec website](https://github.com/devilsec/website) - Building the DevilSec website.
+- [Inject Portal](https://github.com/devilsec/inject-portal) - Creating an inject submission portal for cybersecurity competition use.
+- [BTEDR](https://github.com/devilsec/btedr) - Building a blue team visiblity tool, primarily for cybersecurity competition use.
+- [action-download-artifact](https://github.com/dawidd6/action-download-artifact) - Implementing repository-wide artifact searching. 
+- [obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - Creating a PR to implement an option to disable the opening of notes by default.
 
 ### Contact Me:
-<a href="mailto:daylam@tayari.gg"><img src="https://img.shields.io/badge/email-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white"/></a> <a href="https://twitch.tv/tayarics"><img src="https://img.shields.io/badge/TAYARICS-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white"/></a>
+<a href="mailto:daylam@tayari.gg"><img src="https://img.shields.io/badge/email-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white"/></a>
 
 ### Support Me:
-<a href="https://paypal.me/daylamtayari"><img src="https://img.shields.io/badge//daylamtayari-%2300457C.svg?&style=for-the-badge&logo=PayPal&logoColor=white&labelColor=black"></a> 
-<a href="https://cash.app/$daylamtayari"><img src="https://img.shields.io/badge//$daylamtayari-%2300C244.svg?&style=for-the-badge&logo=Cash-App&logoColor=white&labelColor=black"></a> 
-<a href="https://www.blockchain.com/btc/address/15KcKrsqW6DQdyZPrgRXXmsKkyyZzHAQVX"><img src="https://img.shields.io/badge/15KcKrsqW6DQdyZPrgRXXmsKkyyZzHAQVX-%23F7931A.svg?&style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=black"></a>
+<a href="https://ko-fi.com/tayari"><img src="https://img.shields.io/badge/tayari-%23FF5E5B.svg?&style=for-the-badge&logo=KoFi&logoColor=white&labelColor=black"></a> <a href="https://paypal.me/daylamtayari"><img src="https://img.shields.io/badge//daylamtayari-%2300457C.svg?&style=for-the-badge&logo=PayPal&logoColor=white&labelColor=black"></a> 
 
 ## Languages, Technologies and Tools:
 
@@ -63,15 +70,9 @@ In my free time, I love working on passion projects, completing cybersecurity la
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TwitchRecover&repo=TwitchRecover&show_icons=true&theme=great-gatsby)](https://github.com/TwitchRecover/TwitchRecover)
 
-- **[**Shadow Realm Bot [WIP]**](https://github.com/ShadowRealmBot): A Twitch moderation bot which allows for streamers to issue permanent time outs.** 
-- **[**Chatter Tracker [WIP]**](https://github.com/daylamtayari/Chatter-Tracker): A Twitch analytics tool which tracks viewer count and chatter counts.**  
 - **[**Microsoft To Do Export**](https://github.com/daylamtayari/Microsoft-To-Do-Export): A tool to allow you to export all your lists and tasks from Microsoft To Do to then be able to import them elsewhere.**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daylamtayari&repo=Microsoft-To-Do-Export&show_icons=true&theme=great-gatsby)](https://github.com/daylamtayari/Microsoft-To-Do-Export)
-
-- **[**Twitch Toolkit [WIP]**](https://github.com/daylamtayari/Twitch-Toolkit): A Twitch API toolkit which is a simple GUI program to allow users to make single API calls to Twitch's API in a simplified manner.**  
-- **[**YouTube Subscription Viewer [WIP]**](https://github.com/daylamtayari/YouTube-Subcription-Viewer): A program which displays all of a user's YouTube subcription and to subscribe and unsubscribe to a user, all without needing to be signed in on the browser.**  
-- **CS:GO Server Distro [WIP]**: A custom Linux distribution that contains a pre-configured and optimised CS:GO game server, FTP, voice servers (TS, Mumble, Ventrilo, etc.), etc. with custom simple GUI controller applications and web control application. 
 
 ## Statistics:
 [![Daylam Tayari's GitHub stats](https://github-readme-stats.vercel.app/api?username=daylamtayari&show_icons=true&theme=great-gatsby&count_private=true&hide=issues,contribs)](https://github.com/daylamtayari)
