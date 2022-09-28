@@ -7,7 +7,7 @@
 <a href="https://github.com/daylamtayari/PGP-Keys"><img src="https://img.shields.io/badge/PGP Keys-%230093DD.svg?&style=for-the-badge&logo=gnu-privacy-guard&logoColor=white"/></a>
 <a href="https://github.com/daylamtayari"><img src="https://img.shields.io/github/followers/daylamtayari?color=222222&label=GH%20FOLLOWERS&logo=github&style=for-the-badge"/></a>
 
-### Infosec professional who also enjoys building out various open source tools and applications in my free time.
+### Cybersecurity consultant who also enjoys building out various open source tools and applications in my free time.
   
 <br/>
 
