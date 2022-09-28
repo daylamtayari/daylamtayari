@@ -11,7 +11,7 @@
   
 <br/>
 
-I currently work as a cybersecurity consultant [@BishopFox](https://github.com/BishopFox) which I love but I also still enjoy doing development work in my free time.
+I currently work as a cybersecurity consultant and enjoy working on a variety of open source projects in my own time.  
 
 Primarily work on a variety of personal projects but also regularly contribute to open source projects whenever I encounter any issues or desire a missing feature in something that I am using.
 
@@ -67,15 +67,15 @@ Treasurer for the [ASULUG](https://asulug.org), ASU's Linux Users Group.
 ![Excel Badge](https://img.shields.io/badge/Excel-217346?style=for-the-badge&labelColor=black&logo=microsoftexcel&logoColor=white)
 ![Inventor Badge](https://img.shields.io/badge/Autodesk_Inventor-0696D7?style=for-the-badge&labelColor=black&logo=autodesk&logoColor=white)
 
+## Personal Projects:
+- **[**Twitch Recover**](https://github.com/TwitchRecover/TwitchRecover) - A tool that allows users to **recover**, **retrieve** and **download** any Twitch video (VOD, clip, highlight and stream).**  
+- **[**Microsoft To Do Export**](https://github.com/daylamtayari/Microsoft-To-Do-Export) - A tool to allow you to export all your lists and tasks from Microsoft To Do to then be able to import them elsewhere.**
+- **[**Topic Bot**](https://github.com/daylamtayari/Topic-Bot) - Discord bot which gives users topic and would-you-rather prompts from a set list of user-provided prompts.**
 
-## Projects:
-- **[**Twitch Recover**](https://github.com/TwitchRecover/TwitchRecover): A tool that allows users to **recover**, **retrieve** and **download** any Twitch video (VOD, clip, highlight and stream).**  
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TwitchRecover&repo=TwitchRecover&show_icons=true&theme=great-gatsby)](https://github.com/TwitchRecover/TwitchRecover)
-
-- **[**Microsoft To Do Export**](https://github.com/daylamtayari/Microsoft-To-Do-Export): A tool to allow you to export all your lists and tasks from Microsoft To Do to then be able to import them elsewhere.**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daylamtayari&repo=Microsoft-To-Do-Export&show_icons=true&theme=great-gatsby)](https://github.com/daylamtayari/Microsoft-To-Do-Export)
+## Open Source Contributions
+- [Download Artifact Action](https://github.com/dawidd6/action-download-artifact) - Implemented dry-running feature, expanded logging and created tests.
+- [CTFd Docker Challenges](https://github.com/offsecginger/CTFd-Docker-Challenges) - Fixed issues regarding certificate encoding and template rendering.
+- [CTFd Discord Webhook Plugin](https://github.com/sigpwny/ctfd-discord-webhook-plugin) - Fixed crash issue when user was not on a team.
 
 ## Statistics:
 [![Daylam Tayari's GitHub stats](https://github-readme-stats.vercel.app/api?username=daylamtayari&show_icons=true&theme=great-gatsby&count_private=true&hide=issues,contribs)](https://github.com/daylamtayari)
