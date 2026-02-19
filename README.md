@@ -14,6 +14,7 @@
 ▶ [`https://resume.tayari.gg`](https://resume.tayari.gg) - Latest version of my resume
 
 ## `$ ls`
+▶ [`Cierge`](https://github.com/daylamtayari/cierge) - Multi-user platform that handles booking hard to get reservations at the time that they become available  
 ▶ [`Twitch Recover`](https://github.com/twitchrecover) - Twitch video recovery, retrieval, and download tool, working across VODs, clips, highlights, and streams  
 ▶ [`Microsoft To-Do Export`](https://github.com/daylamtayari/Microsoft-To-Do-Export) - Microsoft To-Do export tool into formats compatible for import to other to-do applications  
 ▶ [`Transit Display`](https://github.com/daylamtayari/transit-display) - RGB LED matrix display that display train and bus arrival times, commute ETAs, and the trains currently operating  
@@ -28,7 +29,7 @@
 ▶ [`QubesOS/qubes-hcl`](https://github.com/QubesOS/qubes-hcl/pull/114) - Framework Laptop 16 HCL  
 
 ## `$ mail`
-<a href="mailto:daylam@tayari.gg"><img src="https://img.shields.io/badge/daylam@tayari.gg-%236D4AFF.svg?&style=flat&logo=protonmail&logoColor=white" height=24 /></a>
+[`daylam@tayari.gg`](mailto:daylam@tayari.gg)
 
 ## `$ gpg --list-keys`
 - https://github.com/daylamtayari/PGP-Keys
