@@ -22,12 +22,6 @@
 ▶ [`Pi-Hole Blocklist`](https://github.com/daylamtayari/Pi-Hole-Blocklist) - Collection of malicious or invasive domain lists to use with a Pi-Hole or other similar solutions  
 ▶ [`Twitch GQL`](https://github.com/daylamtayari/Twitch-GQL) - Twitch non-'public' API GraphQL schema  
 
-### `$ ls contrib/`
-▶ [`dawidd6/action-download-artifact`](https://github.com/dawidd6/action-download-artifact/pull/156) - Implemented dry run feature  
-▶ [`offsecginger/CTFd-Docker-Challenges`](https://github.com/offsecginger/CTFd-Docker-Challenges/pull/18) - Bug fixes  
-▶ [`sigpwny/ctfd-discord-webhook-plugin`](https://github.com/sigpwny/ctfd-discord-webhook-plugin/pull/4) - Bug fixes  
-▶ [`QubesOS/qubes-hcl`](https://github.com/QubesOS/qubes-hcl/pull/114) - Framework Laptop 16 HCL  
-
 ## `$ mail`
 [`daylam@tayari.gg`](mailto:daylam@tayari.gg)
 
