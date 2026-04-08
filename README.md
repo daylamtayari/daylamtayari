@@ -18,6 +18,7 @@
 ▶ [`Twitch Recover`](https://github.com/twitchrecover) - Twitch video recovery, retrieval, and download tool, working across VODs, clips, highlights, and streams  
 ▶ [`Microsoft To-Do Export`](https://github.com/daylamtayari/Microsoft-To-Do-Export) - Microsoft To-Do export tool into formats compatible for import to other to-do applications  
 ▶ [`Transit Display`](https://github.com/daylamtayari/transit-display) - RGB LED matrix display that display train and bus arrival times, commute ETAs, and the trains currently operating  
+▶ [`jwt`](https://github.com/daylamtayari/jwt) - Dependency-free and UNIX-friendly JWT decoding CLI tool that decodes JWTs, checks validity, and performs signature verification  
 ▶ [`dotfiles`](https://github.com/daylamtayari/dotfiles) - Personal dotfiles, continuously in progress  
 ▶ [`Pi-Hole Blocklist`](https://github.com/daylamtayari/Pi-Hole-Blocklist) - Collection of malicious or invasive domain lists to use with a Pi-Hole or other similar solutions  
 ▶ [`Twitch GQL`](https://github.com/daylamtayari/Twitch-GQL) - Twitch non-'public' API GraphQL schema  
